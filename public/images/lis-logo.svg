@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Laurel Wreath -->
+    <path d="M200 50 C 120 100, 80 200, 100 300" stroke="#D4AF37" fill="none" stroke-width="8"/>
+    <path d="M200 50 C 280 100, 320 200, 300 300" stroke="#D4AF37" fill="none" stroke-width="8"/>
+    
+    <!-- Shield -->
+    <path d="M160 100 L240 100 C270 100, 290 120, 290 150 L290 250 C290 280, 250 300, 200 320 C150 300, 110 280, 110 250 L110 150 C110 120, 130 100, 160 100 Z" fill="#D4AF37"/>
+    
+    <!-- Stars -->
+    <g transform="translate(160, 140)">
+      <path d="M10 0L12 6L18 6L13 10L15 16L10 12L5 16L7 10L2 6L8 6L10 0Z" fill="#1A374D"/>
+      <path d="M30 0L32 6L38 6L33 10L35 16L30 12L25 16L27 10L22 6L28 6L30 0Z" fill="#1A374D"/>
+      <path d="M50 0L52 6L58 6L53 10L55 16L50 12L45 16L47 10L42 6L48 6L50 0Z" fill="#1A374D"/>
+      <path d="M70 0L72 6L78 6L73 10L75 16L70 12L65 16L67 10L62 6L68 6L70 0Z" fill="#1A374D"/>
+      <path d="M90 0L92 6L98 6L93 10L95 16L90 12L85 16L87 10L82 6L88 6L90 0Z" fill="#1A374D"/>
+    </g>
+    
+    <!-- LIS Text -->
+    <text x="200" y="200" text-anchor="middle" font-family="Arial Black" font-size="48" fill="#1A374D">LIS</text>
+  </g>
+</svg>
